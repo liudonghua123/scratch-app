@@ -8,18 +8,12 @@ This is scratch app which wrap [scratch-gui](https://github.com/scratchfoundatio
 
 Current version: 3.0.27.
 
-<style>
-tr td:first-child {
-  text-align: center;
-}
-</style>
-
 <table class="is-fullwidth">
 </thead>
 <tbody>
 </tbody>
   <tr>
-    <td>
+    <td align="center">
       <img src="./.github/images/windows.png" width="24"><br />
       Windows
     </td>
@@ -44,7 +38,7 @@ tr td:first-child {
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="./.github/images/macos.png" width="24"><br />
       macOS
     </td>
@@ -75,7 +69,7 @@ tr td:first-child {
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="./.github/images/linux.png" width="24"><br />
       Linux
     </td>
