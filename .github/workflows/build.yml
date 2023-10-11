@@ -37,6 +37,10 @@ jobs:
           cd ..
           git add scratch-gui
           git commit -m "update scratch-gui to v${{ github.event.inputs.tag_version }}"
+          # update version in README.md using sed
+          sed -i "s/[0-9]\+\.[0-9]\+\.[0-9]\+/${{ github.event.inputs.tag_version }}/g" README.md
+          git add README.md
+          git commit -m "update README.md"
           git tag ${{ github.event.inputs.tag_version }}
           git push
           git push --tag
