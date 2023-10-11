@@ -6,7 +6,7 @@ This is scratch app which wrap [scratch-gui](https://github.com/scratchfoundatio
 
 ## Downloads
 
-Current version: 3.0.27.
+Current version: 3.0.28.
 
 <table class="is-fullwidth">
 </thead>
@@ -19,17 +19,17 @@ Current version: 3.0.27.
     </td>
     <td>
       <span>64-bit</span>
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-3.0.27_x64.exe">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-3.0.28_x64.exe">
         📦 Executable
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-3.0.27_x64.msi">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-3.0.28_x64.msi">
         💿 MSI Installer
       </a><br />
       <span>32-bit</span>
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-3.0.27_x86.exe">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-3.0.28_x86.exe">
         📦 Executable
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-3.0.27_x86.msi">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-3.0.28_x86.msi">
         💿 MSI Installer
       </a><br />
       <span>
@@ -44,23 +44,23 @@ Current version: 3.0.27.
     </td>
     <td>
       <span>Intel Processor</span>
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-3.0.27_x64">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-3.0.28_x64">
         📦 Executable
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-3.0.27_x64.dmg">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-3.0.28_x64.dmg">
         💿 DMG bundle
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-3.0.27_x64.app.zip">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-3.0.28_x64.app.zip">
         💿 APP bundle
       </a><br />
       <span>Apple M1 Processor</span>
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-3.0.27_aarch64">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-3.0.28_aarch64">
         📦 Executable
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-3.0.27_aarch64.dmg">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-3.0.28_aarch64.dmg">
         💿 DMG bundle
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-3.0.27_aarch64.app.zip">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-3.0.28_aarch64.app.zip">
         💿 APP bundle
       </a><br />
       <span>
@@ -75,23 +75,23 @@ Current version: 3.0.27.
     </td>
     <td>
       <span>64-bit</span>
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-3.0.27_amd64">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-3.0.28_amd64">
         📦 Executable
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-3.0.27_amd64.AppImage">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-3.0.28_amd64.AppImage">
         💿 AppImage bundle
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-3.0.27_amd64.deb">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-3.0.28_amd64.deb">
         💿 DEB bundle
       </a><br />
       <span>32-bit</span>
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-3.0.27_i386">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-3.0.28_i386">
         📦 Executable
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-3.0.27_i386.AppImage">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-3.0.28_i386.AppImage">
         💿 AppImage bundle
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-3.0.27_i386.deb">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-3.0.28_i386.deb">
         💿 DEB bundle
       </a>
     </td>
