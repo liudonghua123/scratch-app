@@ -1,6 +1,8 @@
 # scratch-app 
 
-This is scratch app which wrap [scratch-gui](https://github.com/scratchfoundation/scratch-gui) using [Tauri](https://tauri.studio/). 
+This is a simple desktop version of [scratch-gui](https://github.com/scratchfoundation/scratch-gui) which build with [Tauri](https://tauri.studio/).
+
+It support windows (x86, x64, arm64) and linux (amd64, i386, arm64, armhf) and macos (x64, aarch64, universal). One single portable executable file or bundles/installers (msi/nsis for windows, deb/AppImage for linux, app.zip/dmg for macos) are provided.
 
 [![build](https://github.com/liudonghua123/scratch-app/actions/workflows/build.yml/badge.svg)](https://github.com/liudonghua123/scratch-app/actions/workflows/build.yml)
 
@@ -24,6 +26,9 @@ Current version: 3.2.11.
       </a> |
       <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-3.2.11_x64.msi">
         💿 MSI Installer
+      </a> |
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-3.2.11_x64-setup.exe">
+        💿 NSIS Installer
       </a><br />
       <span>32-bit</span>
       <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-3.2.11_x86.exe">
@@ -31,9 +36,19 @@ Current version: 3.2.11.
       </a> |
       <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-3.2.11_x86.msi">
         💿 MSI Installer
+      </a> |
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-3.2.11_x86-setup.exe">
+        💿 NSIS Installer
+      </a><br />
+      <span>arm64</span>
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-3.2.11_arm64.exe">
+        📦 Executable
+      </a> |
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-3.2.11_arm64-setup.exe">
+        💿 NSIS Installer
       </a><br />
       <span>
-        ❓ Don't know what kind of chip you have? Hit start, enter "processor" for info.
+        ❓ Don't know which architecture of OS you installed? Execute <code>wmic os get osarchitecture</code> or Open System by clicking the Start button, right-clicking Computer, and then clicking Properties.
       </span>
     </td>
   </tr>
@@ -63,9 +78,23 @@ Current version: 3.2.11.
       <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-3.2.11_aarch64.app.zip">
         💿 APP bundle
       </a><br />
+      <span><a href="https://developer.apple.com/documentation/apple-silicon/building-a-universal-macos-binary">Universal</a></span>
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-3.2.11_universal">
+        📦 Executable
+      </a> |
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-3.2.11_universal.dmg">
+        💿 DMG bundle
+      </a> |
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-3.2.11_universal.app.zip">
+        💿 APP bundle
+      </a><br />
       <span>
-        ❓ Don't know what kind of chip you have? Learn more at <a href="https://support.apple.com/en-us/HT211814">apple.com</a>.
-      </span>
+        ❓ Don't know which architecture of OS you installed? Learn more at <a href="https://support.apple.com/en-us/HT211814">apple.com</a>.
+      </span><br />
+      <br />
+      <i>
+      While Apple silicon machines can run applications compiled for Intel-based Macs through a translation layer called <a href="https://support.apple.com/en-gb/HT211861">Rosetta</a>, this leads to a reduction in performance due to processor instruction translations. It is common practice to let the user choose the correct target when downloading the app, but you can also choose to distribute a <a href="https://developer.apple.com/documentation/apple-silicon/building-a-universal-macos-binary">Universal Binary</a>. Universal Binaries include both <b>aarch64</b> and <b>x86_64</b> executables, giving you the best experience on both architectures. Note, however, that this increases your bundle size significantly.
+      </i>
     </td>
   </tr>
   <tr>
@@ -93,7 +122,24 @@ Current version: 3.2.11.
       </a> |
       <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-3.2.11_i386.deb">
         💿 DEB bundle
-      </a>
+      </a><br />
+      <span>arm64</span>
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-3.2.11_arm64">
+        📦 Executable
+      </a> |
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-3.2.11_arm64.deb">
+        💿 DEB bundle
+      </a><br />
+      <span>armv7</span>
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-3.2.11_armhf">
+        📦 Executable
+      </a> |
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-3.2.11_armhf.deb">
+        💿 DEB bundle
+      </a><br />
+      <span>
+        ❓ Don't know which architecture of OS you installed? Execute <code>uname -i</code> or <code>dpkg --print-architecture</code> or <a href="https://www.man7.org/linux/man-pages/man1/arch.1.html">arch</a> command.
+      </span>
     </td>
   </tr>
 </table>
