@@ -1,7 +1,7 @@
 name: auto_build
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '0 * * * *'
 
 # https://docs.github.com/zh/actions/using-jobs/assigning-permissions-to-jobs
 permissions: write-all
