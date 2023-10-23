@@ -22,7 +22,7 @@ defaults:
     shell: bash
 
 jobs:
-  build-depolyable-static-files:
+  build-static-files:
     name: Build depoly files for ${{ github.event.inputs.tag_version }}
     runs-on: ubuntu-latest
     steps:
@@ -61,6 +61,11 @@ jobs:
           npm install
           npm run build
         working-directory: scratch-gui
+      - name: Deploy 🚀
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./scratch-gui/build
       - name: Prepare build files achive
         run: |
           7z a -tzip ${{env.APP_NAME}}-${{ github.event.inputs.tag_version }}.zip -r ./scratch-gui/build/*
@@ -81,7 +86,7 @@ jobs:
 
   build-native-executable:
     name: 'Build native executable'
-    needs: [build-depolyable-static-files]
+    needs: [build-static-files]
     strategy:
       fail-fast: false
       matrix:
