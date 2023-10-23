@@ -1,7 +1,7 @@
 name: auto_build
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/10 * * * *'
 
 # https://docs.github.com/zh/actions/using-jobs/assigning-permissions-to-jobs
 permissions: write-all
@@ -73,9 +73,9 @@ jobs:
                 core.info(`\u001b[35mtag_updated: ${tag_updated}, latest_upstream_tag_name: ${latest_upstream_tag_name}, current_tag_name: ${current_tag_name}`);
                 // Exporting variables
                 // see also 
-                core.exportVariable('tag_updated', tag_updated);
-                core.exportVariable('latest_upstream_tag_name', latest_upstream_tag_name);
-                core.exportVariable('current_tag_name', current_tag_name);
+                core.setOutput('tag_updated', `${tag_updated}`);
+                core.setOutput('latest_upstream_tag_name', latest_upstream_tag_name);
+                core.setOutput('current_tag_name', current_tag_name);
                 // invoke build action if tag_updated
                 if (!tag_updated) {
                     core.info('tag not updated, skip trigger build action to run');
@@ -89,8 +89,8 @@ jobs:
             
             (async () => { await main(); })();
       # https://docs.github.com/en/actions/using-workflows/triggering-a-workflow#triggering-a-workflow-from-a-workflow
-      - name: Triggering workflow of build.yml 
-        if: ${{ steps.check_tag_updated.outputs.tag_updated }}
+      - name: Triggering workflow of build.yml on ${{ steps.check_tag_updated.outputs.tag_updated }}        
+        if: steps.check_tag_updated.outputs.tag_updated == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
