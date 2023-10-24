@@ -1,7 +1,8 @@
 name: auto_build
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 8-21/3 * * 1-6'
 
 # https://docs.github.com/zh/actions/using-jobs/assigning-permissions-to-jobs
 permissions: write-all
