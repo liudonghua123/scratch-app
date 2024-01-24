@@ -46,14 +46,17 @@ jobs:
             async function get_latest_tag_name(owner, repo) {
                 let latest_tag_name = '';
                 try {
+                    // get the latest tag from tags priority
+                    // the upstream https://github.com/scratchfoundation/scratch-gui updated the release deployment
+                    // see also https://github.com/scratchfoundation/scratch-gui/commit/7d384828723f9ab0481bebb3fd5583a483edd666
+                    const { data: [latest_tag] } = await github.rest.repos.listTags({ owner, repo })
+                    latest_tag_name = latest_tag.name;
+                } catch (error) {
+                    // fallback to use the tags from release
                     // see also https://github.com/oprypin/find-latest-tag
                     // get the latest tag from the latest release
                     const { data: { tag_name } } = await github.rest.repos.getLatestRelease({ owner, repo });
                     latest_tag_name = tag_name;
-                } catch (error) {
-                    // fallback to use the tags
-                    const { data: [latest_tag] } = await github.rest.repos.listTags({ owner, repo })
-                    latest_tag_name = latest_tag.name;
                 }
                 console.info(`found ${owner}/${repo} latest_tag_name ${latest_tag_name}`)
                 return latest_tag_name;
