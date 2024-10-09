@@ -117,10 +117,9 @@ jobs:
         id: tauri-build
         uses: liudonghua123/tauri-build-action@main
         with:
-          project_name: tauri-app
+          project_name: ${{env.APP_NAME}}
           identifier: com.tauri-app.app
-          template: vanilla
-          manager: npm
+          version: ${{ github.event.inputs.tag_version }}
           frontend_dist: ../dist
           icon: app-icon.png
       - name: Display structure of build files
