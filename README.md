@@ -8,7 +8,7 @@ It support windows (x86, x64, arm64), linux (amd64, i386, arm64, armhf), macos (
 
 ## Downloads
 
-Current version: 5.1.56.
+Current version: 5.1.57.
 
 <table class="is-fullwidth">
 </thead>
@@ -21,34 +21,34 @@ Current version: 5.1.56.
     </td>
     <td>
       <span>64-bit</span>
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-5.1.56_x64.exe">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-5.1.57_x64.exe">
         📦 Executable
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-5.1.56_x64.msi">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-5.1.57_x64.msi">
         💿 MSI Installer
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-5.1.56_x64-setup.exe">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-5.1.57_x64-setup.exe">
         💿 NSIS Installer
       </a><br />
       <span>32-bit</span>
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-5.1.56_x86.exe">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-5.1.57_x86.exe">
         📦 Executable
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-5.1.56_x86.msi">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-5.1.57_x86.msi">
         💿 MSI Installer
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-5.1.56_x86-setup.exe">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-5.1.57_x86-setup.exe">
         💿 NSIS Installer
       </a><br />
       <span>arm64</span>
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-5.1.56_arm64.exe">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-5.1.57_arm64.exe">
         📦 Executable
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-5.1.56_arm64_en-US.msi
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-5.1.57_arm64_en-US.msi
 ">
         💿 MSI Installer
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-5.1.56_arm64-setup.exe">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-windows-5.1.57_arm64-setup.exe">
         💿 NSIS Installer
       </a><br />
       <span>
@@ -63,24 +63,24 @@ Current version: 5.1.56.
     </td>
     <td>
       <span>Intel Processor</span>
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-5.1.56_x64">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-5.1.57_x64">
         📦 Executable
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-5.1.56_x64.dmg">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-5.1.57_x64.dmg">
         💿 DMG bundle
       </a><br />
       <span>Apple M1 Processor</span>
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-5.1.56_aarch64">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-5.1.57_aarch64">
         📦 Executable
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-5.1.56_aarch64.dmg">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-5.1.57_aarch64.dmg">
         💿 DMG bundle
       </a><br />
       <span><a href="https://developer.apple.com/documentation/apple-silicon/building-a-universal-macos-binary">Universal</a></span>
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-5.1.56_universal">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-5.1.57_universal">
         📦 Executable
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-5.1.56_universal.dmg">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-macos-5.1.57_universal.dmg">
         💿 DMG bundle
       </a><br />
       <span>
@@ -99,49 +99,49 @@ Current version: 5.1.56.
     </td>
     <td>
       <span>64-bit</span>
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.56_amd64">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.57_amd64">
         📦 Executable
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.56_amd64.AppImage">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.57_amd64.AppImage">
         💿 AppImage bundle
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.56_amd64.deb">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.57_amd64.deb">
         💿 DEB bundle
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.56.x86_64.rpm">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.57.x86_64.rpm">
         💿 RPM bundle
       </a><br />
       <span>32-bit</span>
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.56_i386">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.57_i386">
         📦 Executable
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.56_i386.AppImage">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.57_i386.AppImage">
         💿 AppImage bundle
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.56_i386.deb">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.57_i386.deb">
         💿 DEB bundle
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.56.i386.rpm">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.57.i386.rpm">
         💿 RPM bundle
       </a><br />
       <span>arm64</span>
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.56_arm64">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.57_arm64">
         📦 Executable
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.56_arm64.deb">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.57_arm64.deb">
         💿 DEB bundle
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.56.aarch64.rpm">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.57.aarch64.rpm">
         💿 RPM bundle
       </a><br />
       <span>armv7</span>
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.56_armhf">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.57_armhf">
         📦 Executable
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.56_armhf.deb">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.57_armhf.deb">
         💿 DEB bundle
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.56.armhfp.rpm">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-linux-5.1.57.armhfp.rpm">
         💿 RPM bundle
       </a><br />
       <span>
@@ -156,10 +156,10 @@ Current version: 5.1.56.
     </td>
     <td>
       <span>universal</span>
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-android-5.1.56-universal-release-unsigned.apk">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-android-5.1.57-universal-release-unsigned.apk">
         📦 APK
       </a> |
-      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-android-5.1.56-universal-release.aab">
+      <a href="https://github.com/liudonghua123/scratch-app/releases/latest/download/scratch-app-android-5.1.57-universal-release.aab">
         💿 AAB bundle
       </a><br />
       <span>By default the generated AAB and APK is universal, containing all supported targets.</span>
