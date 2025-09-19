@@ -51,11 +51,10 @@ jobs:
           git tag ${{ github.event.inputs.tag_version }} || true
           git push
           git push --tag
-      - name: Use Node.js 18.x
-        uses: actions/setup-node@v2
+      - name: Use Node.js 22.x
+        uses: actions/setup-node@v4
         with:
-          node-version: 18.x
-          cache: 'npm'
+          node-version: 22.x
       - name: 'Building scratch-gui'
         run: |
           npm install
@@ -104,11 +103,10 @@ jobs:
           unzip ${{env.APP_NAME}}-${{ github.event.inputs.tag_version }}.zip -d dist
       - name: Display structure of downloaded files
         run: ls -l . dist
-      - name: Use Node.js 18.x
-        uses: actions/setup-node@v2
+      - name: Use Node.js 22.x
+        uses: actions/setup-node@v4
         with:
-          node-version: 18.x
-          cache: 'yarn'
+          node-version: 22.x
       - uses: actions/setup-java@v4
         with:
           distribution: 'temurin'
