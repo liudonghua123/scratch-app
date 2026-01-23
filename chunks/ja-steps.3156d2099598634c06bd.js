@@ -1,11 +1,11 @@
 "use strict";
 (self["webpackChunkGUI"] = self["webpackChunkGUI"] || []).push([["ja-steps"],{
 
-/***/ "./src/lib/libraries/decks/ja-steps.js":
+/***/ "./src/lib/libraries/decks/ja-steps.js"
 /*!*********************************************!*\
   !*** ./src/lib/libraries/decks/ja-steps.js ***!
   \*********************************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+(__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
@@ -536,1057 +536,1057 @@ const jaImages = {
 };
 
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/add-effects.ja.png":
+/***/ "./src/lib/libraries/decks/steps/add-effects.ja.png"
 /*!**********************************************************!*\
   !*** ./src/lib/libraries/decks/steps/add-effects.ja.png ***!
   \**********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/add-effects.ja.65ab1d372165b0364206.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/add-variable.ja.gif":
+/***/ "./src/lib/libraries/decks/steps/add-variable.ja.gif"
 /*!***********************************************************!*\
   !*** ./src/lib/libraries/decks/steps/add-variable.ja.gif ***!
   \***********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/add-variable.ja.eefe1a1b33b8f8347727.gif";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/animate-char-add-sound.ja.png":
+/***/ "./src/lib/libraries/decks/steps/animate-char-add-sound.ja.png"
 /*!*********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/animate-char-add-sound.ja.png ***!
   \*********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/animate-char-add-sound.ja.a3054424b4fb02050bb8.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/animate-char-change-color.ja.png":
+/***/ "./src/lib/libraries/decks/steps/animate-char-change-color.ja.png"
 /*!************************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/animate-char-change-color.ja.png ***!
   \************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/animate-char-change-color.ja.15ca90e336eeead5ed24.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/animate-char-jump.ja.png":
+/***/ "./src/lib/libraries/decks/steps/animate-char-jump.ja.png"
 /*!****************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/animate-char-jump.ja.png ***!
   \****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/animate-char-jump.ja.65076928469935446dd0.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/animate-char-move.ja.png":
+/***/ "./src/lib/libraries/decks/steps/animate-char-move.ja.png"
 /*!****************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/animate-char-move.ja.png ***!
   \****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/animate-char-move.ja.dd63f78ef996b9805f07.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/animate-char-say-something.ja.png":
+/***/ "./src/lib/libraries/decks/steps/animate-char-say-something.ja.png"
 /*!*************************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/animate-char-say-something.ja.png ***!
   \*************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/animate-char-say-something.ja.5970344a746771f4ab3c.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/animate-char-talk.ja.png":
+/***/ "./src/lib/libraries/decks/steps/animate-char-talk.ja.png"
 /*!****************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/animate-char-talk.ja.png ***!
   \****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/animate-char-talk.ja.de8573a9d1d1f1541c3e.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/change-size.ja.png":
+/***/ "./src/lib/libraries/decks/steps/change-size.ja.png"
 /*!**********************************************************!*\
   !*** ./src/lib/libraries/decks/steps/change-size.ja.png ***!
   \**********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/change-size.ja.c5eb360fa73fe7003c1d.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/chase-game-change-score.ja.png":
+/***/ "./src/lib/libraries/decks/steps/chase-game-change-score.ja.png"
 /*!**********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/chase-game-change-score.ja.png ***!
   \**********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/chase-game-change-score.ja.9e11bf98a99f3bcb9c4e.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/chase-game-move-randomly.ja.png":
+/***/ "./src/lib/libraries/decks/steps/chase-game-move-randomly.ja.png"
 /*!***********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/chase-game-move-randomly.ja.png ***!
   \***********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/chase-game-move-randomly.ja.439b9d98962816fd1b87.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/chase-game-play-sound.ja.png":
+/***/ "./src/lib/libraries/decks/steps/chase-game-play-sound.ja.png"
 /*!********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/chase-game-play-sound.ja.png ***!
   \********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/chase-game-play-sound.ja.5aecc4a24833a8d79468.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/chase-game-right-left.ja.png":
+/***/ "./src/lib/libraries/decks/steps/chase-game-right-left.ja.png"
 /*!********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/chase-game-right-left.ja.png ***!
   \********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/chase-game-right-left.ja.eb06231f83fb1ed78623.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/chase-game-up-down.ja.png":
+/***/ "./src/lib/libraries/decks/steps/chase-game-up-down.ja.png"
 /*!*****************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/chase-game-up-down.ja.png ***!
   \*****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/chase-game-up-down.ja.34443d8d625ac998829e.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/cn-backdrop.ja.png":
+/***/ "./src/lib/libraries/decks/steps/cn-backdrop.ja.png"
 /*!**********************************************************!*\
   !*** ./src/lib/libraries/decks/steps/cn-backdrop.ja.png ***!
   \**********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/cn-backdrop.ja.f34236700cf0f02f2ce3.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/cn-collect.ja.png":
+/***/ "./src/lib/libraries/decks/steps/cn-collect.ja.png"
 /*!*********************************************************!*\
   !*** ./src/lib/libraries/decks/steps/cn-collect.ja.png ***!
   \*********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/cn-collect.ja.ef22f5722e9e140325ee.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/cn-glide.ja.png":
+/***/ "./src/lib/libraries/decks/steps/cn-glide.ja.png"
 /*!*******************************************************!*\
   !*** ./src/lib/libraries/decks/steps/cn-glide.ja.png ***!
   \*******************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/cn-glide.ja.6f3597e8e08c902183cc.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/cn-say.ja.png":
+/***/ "./src/lib/libraries/decks/steps/cn-say.ja.png"
 /*!*****************************************************!*\
   !*** ./src/lib/libraries/decks/steps/cn-say.ja.png ***!
   \*****************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/cn-say.ja.a6cde78d4afcb612158d.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/cn-score.ja.png":
+/***/ "./src/lib/libraries/decks/steps/cn-score.ja.png"
 /*!*******************************************************!*\
   !*** ./src/lib/libraries/decks/steps/cn-score.ja.png ***!
   \*******************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/cn-score.ja.cf3f3029f3fc2c3f4427.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/code-cartoon-01-say-something.ja.png":
+/***/ "./src/lib/libraries/decks/steps/code-cartoon-01-say-something.ja.png"
 /*!****************************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/code-cartoon-01-say-something.ja.png ***!
   \****************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/code-cartoon-01-say-something.ja.88b38b133f86a4a5ce8d.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/code-cartoon-02-animate.ja.png":
+/***/ "./src/lib/libraries/decks/steps/code-cartoon-02-animate.ja.png"
 /*!**********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/code-cartoon-02-animate.ja.png ***!
   \**********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/code-cartoon-02-animate.ja.7e526e0979ededbfffd1.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/code-cartoon-04-use-minus-sign.ja.png":
+/***/ "./src/lib/libraries/decks/steps/code-cartoon-04-use-minus-sign.ja.png"
 /*!*****************************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/code-cartoon-04-use-minus-sign.ja.png ***!
   \*****************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/code-cartoon-04-use-minus-sign.ja.545db4ada1ee421e167d.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/code-cartoon-05-grow-shrink.ja.png":
+/***/ "./src/lib/libraries/decks/steps/code-cartoon-05-grow-shrink.ja.png"
 /*!**************************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/code-cartoon-05-grow-shrink.ja.png ***!
   \**************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/code-cartoon-05-grow-shrink.ja.75c7c30b272dbc132ebe.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/code-cartoon-07-jump.ja.png":
+/***/ "./src/lib/libraries/decks/steps/code-cartoon-07-jump.ja.png"
 /*!*******************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/code-cartoon-07-jump.ja.png ***!
   \*******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/code-cartoon-07-jump.ja.e968e54db011506c2eb4.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/code-cartoon-08-change-scenes.ja.png":
+/***/ "./src/lib/libraries/decks/steps/code-cartoon-08-change-scenes.ja.png"
 /*!****************************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/code-cartoon-08-change-scenes.ja.png ***!
   \****************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/code-cartoon-08-change-scenes.ja.db48ea4e8e180e95e82f.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/code-cartoon-09-glide-around.ja.png":
+/***/ "./src/lib/libraries/decks/steps/code-cartoon-09-glide-around.ja.png"
 /*!***************************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/code-cartoon-09-glide-around.ja.png ***!
   \***************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/code-cartoon-09-glide-around.ja.1906946ebc92c5609ff0.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/code-cartoon-10-change-costumes.ja.png":
+/***/ "./src/lib/libraries/decks/steps/code-cartoon-10-change-costumes.ja.png"
 /*!******************************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/code-cartoon-10-change-costumes.ja.png ***!
   \******************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/code-cartoon-10-change-costumes.ja.e213e576443a06968e87.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/fly-flying-heart.ja.png":
+/***/ "./src/lib/libraries/decks/steps/fly-flying-heart.ja.png"
 /*!***************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/fly-flying-heart.ja.png ***!
   \***************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/fly-flying-heart.ja.33dc9ba6d9094eb07fae.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/fly-keep-score.ja.png":
+/***/ "./src/lib/libraries/decks/steps/fly-keep-score.ja.png"
 /*!*************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/fly-keep-score.ja.png ***!
   \*************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/fly-keep-score.ja.e09006bc79d00e60390d.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/fly-make-interactive.ja.png":
+/***/ "./src/lib/libraries/decks/steps/fly-make-interactive.ja.png"
 /*!*******************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/fly-make-interactive.ja.png ***!
   \*******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/fly-make-interactive.ja.3ee6d00bfac312b9766b.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/fly-move-scenery.ja.png":
+/***/ "./src/lib/libraries/decks/steps/fly-move-scenery.ja.png"
 /*!***************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/fly-move-scenery.ja.png ***!
   \***************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/fly-move-scenery.ja.a8adc01e50fae54bea86.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/fly-say-something.ja.png":
+/***/ "./src/lib/libraries/decks/steps/fly-say-something.ja.png"
 /*!****************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/fly-say-something.ja.png ***!
   \****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/fly-say-something.ja.13f77c6e605843bc7205.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/fly-switch-costume.ja.png":
+/***/ "./src/lib/libraries/decks/steps/fly-switch-costume.ja.png"
 /*!*****************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/fly-switch-costume.ja.png ***!
   \*****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/fly-switch-costume.ja.ef9e763e5c7ff4cefb85.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/glide-around-back-and-forth.ja.png":
+/***/ "./src/lib/libraries/decks/steps/glide-around-back-and-forth.ja.png"
 /*!**************************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/glide-around-back-and-forth.ja.png ***!
   \**************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/glide-around-back-and-forth.ja.96e6aa8d944aaa6b9572.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/glide-around-point.ja.png":
+/***/ "./src/lib/libraries/decks/steps/glide-around-point.ja.png"
 /*!*****************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/glide-around-point.ja.png ***!
   \*****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/glide-around-point.ja.523223838f1d033ab056.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/hide-show.ja.png":
+/***/ "./src/lib/libraries/decks/steps/hide-show.ja.png"
 /*!********************************************************!*\
   !*** ./src/lib/libraries/decks/steps/hide-show.ja.png ***!
   \********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/hide-show.ja.ca2ad8b9b2ea366b1e26.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/imagine-change-costumes.ja.png":
+/***/ "./src/lib/libraries/decks/steps/imagine-change-costumes.ja.png"
 /*!**********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/imagine-change-costumes.ja.png ***!
   \**********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/imagine-change-costumes.ja.073c6a7f5038f379f9e2.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/imagine-choose-sound.ja.png":
+/***/ "./src/lib/libraries/decks/steps/imagine-choose-sound.ja.png"
 /*!*******************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/imagine-choose-sound.ja.png ***!
   \*******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/imagine-choose-sound.ja.5f125c386017c27d0c48.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/imagine-click-green-flag.ja.png":
+/***/ "./src/lib/libraries/decks/steps/imagine-click-green-flag.ja.png"
 /*!***********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/imagine-click-green-flag.ja.png ***!
   \***********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/imagine-click-green-flag.ja.853b010c7071d2815116.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/imagine-fly-around.ja.png":
+/***/ "./src/lib/libraries/decks/steps/imagine-fly-around.ja.png"
 /*!*****************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/imagine-fly-around.ja.png ***!
   \*****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/imagine-fly-around.ja.ad496477c22fdf19adf8.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/imagine-glide-to-point.ja.png":
+/***/ "./src/lib/libraries/decks/steps/imagine-glide-to-point.ja.png"
 /*!*********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/imagine-glide-to-point.ja.png ***!
   \*********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/imagine-glide-to-point.ja.0a83b313afc13cfb9055.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/imagine-grow-shrink.ja.png":
+/***/ "./src/lib/libraries/decks/steps/imagine-grow-shrink.ja.png"
 /*!******************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/imagine-grow-shrink.ja.png ***!
   \******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/imagine-grow-shrink.ja.0cf4e90d6cba95ce0920.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/imagine-left-right.ja.png":
+/***/ "./src/lib/libraries/decks/steps/imagine-left-right.ja.png"
 /*!*****************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/imagine-left-right.ja.png ***!
   \*****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/imagine-left-right.ja.7235428f01cf82496c33.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/imagine-record-a-sound.ja.gif":
+/***/ "./src/lib/libraries/decks/steps/imagine-record-a-sound.ja.gif"
 /*!*********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/imagine-record-a-sound.ja.gif ***!
   \*********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/imagine-record-a-sound.ja.23f2783c089921d04a8c.gif";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/imagine-switch-backdrops.ja.png":
+/***/ "./src/lib/libraries/decks/steps/imagine-switch-backdrops.ja.png"
 /*!***********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/imagine-switch-backdrops.ja.png ***!
   \***********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/imagine-switch-backdrops.ja.e96022b3128bcbb78fbc.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/imagine-type-what-you-want.ja.png":
+/***/ "./src/lib/libraries/decks/steps/imagine-type-what-you-want.ja.png"
 /*!*************************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/imagine-type-what-you-want.ja.png ***!
   \*************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/imagine-type-what-you-want.ja.fb0d1e3d8244ccb2e5aa.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/imagine-up-down.ja.png":
+/***/ "./src/lib/libraries/decks/steps/imagine-up-down.ja.png"
 /*!**************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/imagine-up-down.ja.png ***!
   \**************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/imagine-up-down.ja.403e384eb08ae6a9871c.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/intro-1-move.ja.gif":
+/***/ "./src/lib/libraries/decks/steps/intro-1-move.ja.gif"
 /*!***********************************************************!*\
   !*** ./src/lib/libraries/decks/steps/intro-1-move.ja.gif ***!
   \***********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/intro-1-move.ja.93e88badfb566c07833e.gif";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/intro-2-say.ja.gif":
+/***/ "./src/lib/libraries/decks/steps/intro-2-say.ja.gif"
 /*!**********************************************************!*\
   !*** ./src/lib/libraries/decks/steps/intro-2-say.ja.gif ***!
   \**********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/intro-2-say.ja.93f5bd705a6cbbdd0722.gif";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/intro-3-green-flag.ja.gif":
+/***/ "./src/lib/libraries/decks/steps/intro-3-green-flag.ja.gif"
 /*!*****************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/intro-3-green-flag.ja.gif ***!
   \*****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/intro-3-green-flag.ja.a9657cf70e7027065b40.gif";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/move-arrow-keys-left-right.ja.png":
+/***/ "./src/lib/libraries/decks/steps/move-arrow-keys-left-right.ja.png"
 /*!*************************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/move-arrow-keys-left-right.ja.png ***!
   \*************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/move-arrow-keys-left-right.ja.a00bf9025012ede35642.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/move-arrow-keys-up-down.ja.png":
+/***/ "./src/lib/libraries/decks/steps/move-arrow-keys-up-down.ja.png"
 /*!**********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/move-arrow-keys-up-down.ja.png ***!
   \**********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/move-arrow-keys-up-down.ja.0da996ca9bb0974fcf00.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/music-make-beat.ja.png":
+/***/ "./src/lib/libraries/decks/steps/music-make-beat.ja.png"
 /*!**************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/music-make-beat.ja.png ***!
   \**************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/music-make-beat.ja.c0d26a066b8273d910fa.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/music-make-beatbox.ja.png":
+/***/ "./src/lib/libraries/decks/steps/music-make-beatbox.ja.png"
 /*!*****************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/music-make-beatbox.ja.png ***!
   \*****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/music-make-beatbox.ja.4cd4a0ee173b6c24448f.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/music-make-song.ja.png":
+/***/ "./src/lib/libraries/decks/steps/music-make-song.ja.png"
 /*!**************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/music-make-song.ja.png ***!
   \**************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/music-make-song.ja.79c8b811f79a6b17b019.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/music-play-sound.ja.png":
+/***/ "./src/lib/libraries/decks/steps/music-play-sound.ja.png"
 /*!***************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/music-play-sound.ja.png ***!
   \***************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/music-play-sound.ja.a10f9cd5de675406c45d.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/name-change-color.ja.png":
+/***/ "./src/lib/libraries/decks/steps/name-change-color.ja.png"
 /*!****************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/name-change-color.ja.png ***!
   \****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/name-change-color.ja.fc5f265895e97ae1b99b.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/name-grow.ja.png":
+/***/ "./src/lib/libraries/decks/steps/name-grow.ja.png"
 /*!********************************************************!*\
   !*** ./src/lib/libraries/decks/steps/name-grow.ja.png ***!
   \********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/name-grow.ja.6a19347affc7daaf1087.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/name-play-sound.ja.png":
+/***/ "./src/lib/libraries/decks/steps/name-play-sound.ja.png"
 /*!**************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/name-play-sound.ja.png ***!
   \**************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/name-play-sound.ja.3c15e3076078813b2262.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/name-spin.ja.png":
+/***/ "./src/lib/libraries/decks/steps/name-spin.ja.png"
 /*!********************************************************!*\
   !*** ./src/lib/libraries/decks/steps/name-spin.ja.png ***!
   \********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/name-spin.ja.de394e55d3e0159f44e2.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/pong-add-code-to-ball.ja.png":
+/***/ "./src/lib/libraries/decks/steps/pong-add-code-to-ball.ja.png"
 /*!********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/pong-add-code-to-ball.ja.png ***!
   \********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/pong-add-code-to-ball.ja.66b24423e6185e24e338.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/pong-bounce-around.ja.png":
+/***/ "./src/lib/libraries/decks/steps/pong-bounce-around.ja.png"
 /*!*****************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/pong-bounce-around.ja.png ***!
   \*****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/pong-bounce-around.ja.0b014953f5426e425c8c.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/pong-choose-score.ja.png":
+/***/ "./src/lib/libraries/decks/steps/pong-choose-score.ja.png"
 /*!****************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/pong-choose-score.ja.png ***!
   \****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/pong-choose-score.ja.bb3244ce3c74f4de7d6b.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/pong-game-over.ja.png":
+/***/ "./src/lib/libraries/decks/steps/pong-game-over.ja.png"
 /*!*************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/pong-game-over.ja.png ***!
   \*************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/pong-game-over.ja.3a33a7f9689d4e549801.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/pong-insert-change-score.ja.png":
+/***/ "./src/lib/libraries/decks/steps/pong-insert-change-score.ja.png"
 /*!***********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/pong-insert-change-score.ja.png ***!
   \***********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/pong-insert-change-score.ja.8a7dace65747bf3ff175.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/pong-move-the-paddle.ja.png":
+/***/ "./src/lib/libraries/decks/steps/pong-move-the-paddle.ja.png"
 /*!*******************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/pong-move-the-paddle.ja.png ***!
   \*******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/pong-move-the-paddle.ja.321d6faa38c937bd25b3.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/pong-reset-score.ja.png":
+/***/ "./src/lib/libraries/decks/steps/pong-reset-score.ja.png"
 /*!***************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/pong-reset-score.ja.png ***!
   \***************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/pong-reset-score.ja.d022b5e61b38354af45e.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/pop-game-change-color.ja.png":
+/***/ "./src/lib/libraries/decks/steps/pop-game-change-color.ja.png"
 /*!********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/pop-game-change-color.ja.png ***!
   \********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/pop-game-change-color.ja.32c5d697919fc7eaccdc.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/pop-game-change-score.ja.png":
+/***/ "./src/lib/libraries/decks/steps/pop-game-change-score.ja.png"
 /*!********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/pop-game-change-score.ja.png ***!
   \********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/pop-game-change-score.ja.f8f446af42fa1fd1a637.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/pop-game-play-sound.ja.png":
+/***/ "./src/lib/libraries/decks/steps/pop-game-play-sound.ja.png"
 /*!******************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/pop-game-play-sound.ja.png ***!
   \******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/pop-game-play-sound.ja.5f79747d4a859c461d97.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/pop-game-random-position.ja.png":
+/***/ "./src/lib/libraries/decks/steps/pop-game-random-position.ja.png"
 /*!***********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/pop-game-random-position.ja.png ***!
   \***********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/pop-game-random-position.ja.203016fcc4d3dac025ee.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/pop-game-reset-score.ja.png":
+/***/ "./src/lib/libraries/decks/steps/pop-game-reset-score.ja.png"
 /*!*******************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/pop-game-reset-score.ja.png ***!
   \*******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/pop-game-reset-score.ja.a784110cc9dc16cec29e.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/record-a-sound-choose-sound.ja.png":
+/***/ "./src/lib/libraries/decks/steps/record-a-sound-choose-sound.ja.png"
 /*!**************************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/record-a-sound-choose-sound.ja.png ***!
   \**************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/record-a-sound-choose-sound.ja.0e32b0a65547d68350ce.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/record-a-sound-click-record.ja.png":
+/***/ "./src/lib/libraries/decks/steps/record-a-sound-click-record.ja.png"
 /*!**************************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/record-a-sound-click-record.ja.png ***!
   \**************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/record-a-sound-click-record.ja.257456e7b806842ea879.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/record-a-sound-play-your-sound.ja.png":
+/***/ "./src/lib/libraries/decks/steps/record-a-sound-play-your-sound.ja.png"
 /*!*****************************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/record-a-sound-play-your-sound.ja.png ***!
   \*****************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/record-a-sound-play-your-sound.ja.16e4d6d19cb4406bc944.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/record-a-sound-press-record-button.ja.png":
+/***/ "./src/lib/libraries/decks/steps/record-a-sound-press-record-button.ja.png"
 /*!*********************************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/record-a-sound-press-record-button.ja.png ***!
   \*********************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/record-a-sound-press-record-button.ja.938f4fe8fd4168a5dfc5.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/record-a-sound-sounds-tab.ja.png":
+/***/ "./src/lib/libraries/decks/steps/record-a-sound-sounds-tab.ja.png"
 /*!************************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/record-a-sound-sounds-tab.ja.png ***!
   \************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/record-a-sound-sounds-tab.ja.5fcc5348615a344ca346.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/speech-add-extension.ja.gif":
+/***/ "./src/lib/libraries/decks/steps/speech-add-extension.ja.gif"
 /*!*******************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/speech-add-extension.ja.gif ***!
   \*******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/speech-add-extension.ja.146ee09e314aec433d9f.gif";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/speech-change-color.ja.png":
+/***/ "./src/lib/libraries/decks/steps/speech-change-color.ja.png"
 /*!******************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/speech-change-color.ja.png ***!
   \******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/speech-change-color.ja.b2ed37a7cb79b52f0bc6.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/speech-grow-shrink.ja.png":
+/***/ "./src/lib/libraries/decks/steps/speech-grow-shrink.ja.png"
 /*!*****************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/speech-grow-shrink.ja.png ***!
   \*****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/speech-grow-shrink.ja.0ce58c2d774109e8bf43.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/speech-move-around.ja.png":
+/***/ "./src/lib/libraries/decks/steps/speech-move-around.ja.png"
 /*!*****************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/speech-move-around.ja.png ***!
   \*****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/speech-move-around.ja.c14b6668c2fb46e46517.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/speech-say-something.ja.png":
+/***/ "./src/lib/libraries/decks/steps/speech-say-something.ja.png"
 /*!*******************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/speech-say-something.ja.png ***!
   \*******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/speech-say-something.ja.ae0be16333fe5394e964.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/speech-set-voice.ja.png":
+/***/ "./src/lib/libraries/decks/steps/speech-set-voice.ja.png"
 /*!***************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/speech-set-voice.ja.png ***!
   \***************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/speech-set-voice.ja.6a516504338645d58d0f.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/speech-song.ja.png":
+/***/ "./src/lib/libraries/decks/steps/speech-song.ja.png"
 /*!**********************************************************!*\
   !*** ./src/lib/libraries/decks/steps/speech-song.ja.png ***!
   \**********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/speech-song.ja.53563ba5f29495bae5c8.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/speech-spin.ja.png":
+/***/ "./src/lib/libraries/decks/steps/speech-spin.ja.png"
 /*!**********************************************************!*\
   !*** ./src/lib/libraries/decks/steps/speech-spin.ja.png ***!
   \**********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/speech-spin.ja.846bd321ef4f6d8b7889.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/spin-point-in-direction.ja.png":
+/***/ "./src/lib/libraries/decks/steps/spin-point-in-direction.ja.png"
 /*!**********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/spin-point-in-direction.ja.png ***!
   \**********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/spin-point-in-direction.ja.d7eb468c0007cbdc69da.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/spin-turn.ja.png":
+/***/ "./src/lib/libraries/decks/steps/spin-turn.ja.png"
 /*!********************************************************!*\
   !*** ./src/lib/libraries/decks/steps/spin-turn.ja.png ***!
   \********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/spin-turn.ja.863ff6959492e2a3f09f.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/story-conversation.ja.png":
+/***/ "./src/lib/libraries/decks/steps/story-conversation.ja.png"
 /*!*****************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/story-conversation.ja.png ***!
   \*****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/story-conversation.ja.b5dfbbcf68a4d7b78eb9.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/story-flip.ja.gif":
+/***/ "./src/lib/libraries/decks/steps/story-flip.ja.gif"
 /*!*********************************************************!*\
   !*** ./src/lib/libraries/decks/steps/story-flip.ja.gif ***!
   \*********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/story-flip.ja.05af09814357208f97eb.gif";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/story-hide-character.ja.png":
+/***/ "./src/lib/libraries/decks/steps/story-hide-character.ja.png"
 /*!*******************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/story-hide-character.ja.png ***!
   \*******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/story-hide-character.ja.643d30f2243757c5bb6a.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/story-say-something.ja.png":
+/***/ "./src/lib/libraries/decks/steps/story-say-something.ja.png"
 /*!******************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/story-say-something.ja.png ***!
   \******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/story-say-something.ja.b82e0b010042cf02c495.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/story-show-character.ja.png":
+/***/ "./src/lib/libraries/decks/steps/story-show-character.ja.png"
 /*!*******************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/story-show-character.ja.png ***!
   \*******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/story-show-character.ja.d0213f6fb317bb4cec02.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/story-switch-backdrop.ja.png":
+/***/ "./src/lib/libraries/decks/steps/story-switch-backdrop.ja.png"
 /*!********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/story-switch-backdrop.ja.png ***!
   \********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/story-switch-backdrop.ja.4dec0d12f2c093d45033.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/switch-costumes.ja.png":
+/***/ "./src/lib/libraries/decks/steps/switch-costumes.ja.png"
 /*!**************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/switch-costumes.ja.png ***!
   \**************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/switch-costumes.ja.ab09795a0477290ebec9.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/talking-11-choose-sound.ja.gif":
+/***/ "./src/lib/libraries/decks/steps/talking-11-choose-sound.ja.gif"
 /*!**********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/talking-11-choose-sound.ja.gif ***!
   \**********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/talking-11-choose-sound.ja.51d3481d4ff3ce7d0539.gif";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/talking-12-dance-moves.ja.png":
+/***/ "./src/lib/libraries/decks/steps/talking-12-dance-moves.ja.png"
 /*!*********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/talking-12-dance-moves.ja.png ***!
   \*********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/talking-12-dance-moves.ja.d454bda76c67224752a1.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/talking-13-ask-and-answer.ja.png":
+/***/ "./src/lib/libraries/decks/steps/talking-13-ask-and-answer.ja.png"
 /*!************************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/talking-13-ask-and-answer.ja.png ***!
   \************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/talking-13-ask-and-answer.ja.f3feefaa936882602b3f.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/talking-3-say-something.ja.png":
+/***/ "./src/lib/libraries/decks/steps/talking-3-say-something.ja.png"
 /*!**********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/talking-3-say-something.ja.png ***!
   \**********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/talking-3-say-something.ja.91d1bdffaa8e970b3b82.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/talking-5-switch-backdrop.ja.png":
+/***/ "./src/lib/libraries/decks/steps/talking-5-switch-backdrop.ja.png"
 /*!************************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/talking-5-switch-backdrop.ja.png ***!
   \************************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/talking-5-switch-backdrop.ja.4512813ba51c28909670.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/talking-7-move-around.ja.png":
+/***/ "./src/lib/libraries/decks/steps/talking-7-move-around.ja.png"
 /*!********************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/talking-7-move-around.ja.png ***!
   \********************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/talking-7-move-around.ja.0ffd01af977c0f1d4fba.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/talking-9-animate.ja.png":
+/***/ "./src/lib/libraries/decks/steps/talking-9-animate.ja.png"
 /*!****************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/talking-9-animate.ja.png ***!
   \****************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/talking-9-animate.ja.dbea9b88d9ed70704ef1.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/video-add-extension.ja.gif":
+/***/ "./src/lib/libraries/decks/steps/video-add-extension.ja.gif"
 /*!******************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/video-add-extension.ja.gif ***!
   \******************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/video-add-extension.ja.4efa7f65f48eca9dfcc9.gif";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/video-animate.ja.png":
+/***/ "./src/lib/libraries/decks/steps/video-animate.ja.png"
 /*!************************************************************!*\
   !*** ./src/lib/libraries/decks/steps/video-animate.ja.png ***!
   \************************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/video-animate.ja.3bb500dcd362dfd4887c.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/video-pet.ja.png":
+/***/ "./src/lib/libraries/decks/steps/video-pet.ja.png"
 /*!********************************************************!*\
   !*** ./src/lib/libraries/decks/steps/video-pet.ja.png ***!
   \********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/video-pet.ja.30c4b07fea1f54514fa3.png";
 
-/***/ }),
+/***/ },
 
-/***/ "./src/lib/libraries/decks/steps/video-pop.ja.png":
+/***/ "./src/lib/libraries/decks/steps/video-pop.ja.png"
 /*!********************************************************!*\
   !*** ./src/lib/libraries/decks/steps/video-pop.ja.png ***!
   \********************************************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+(module, __unused_webpack_exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/assets/video-pop.ja.a536d7e6abea4620179a.png";
 
-/***/ })
+/***/ }
 
 }]);
 //# sourceMappingURL=ja-steps.3156d2099598634c06bd.js.map
